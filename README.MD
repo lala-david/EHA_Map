@@ -94,15 +94,10 @@ def map_report():
     return send_file(filename, mimetype='text/html')
 ```
 
-# 3**. Postman**
+# 3. Postman
 
 ![Alt text](5.PNG)
 
-# 4**. Map**
+# 4. Map
 
-<<<<<<< HEAD
 ![Alt text](1.PNG) ![Alt text](2.PNG) ![Alt text](3.PNG) ![Alt text](4.PNG)
-=======
-
-# 4**. Map**
->>>>>>> 82e9f407db8268012b898bce67b6c4fe5c5a4318
