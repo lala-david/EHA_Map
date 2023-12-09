@@ -96,7 +96,7 @@ def map_report():
 
 # 3. Postman
 
-![Alt text](6.PNG)
+![Alt text](./img/6.PNG)
 
 # 4. Map
-![Alt text](1.PNG)
+![Alt text](./img/1.PNG)
