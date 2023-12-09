@@ -1,0 +1,38 @@
+[
+    {
+        "coordinates": [
+            35.964362,
+            126.736021
+        ],
+        "Chem-LoE": 0.9,
+        "Ecop_LoE": 0.8,
+        "Ecootox-LoE": 0.75
+    },
+    {
+        "coordinates": [
+            35.964,
+            126.735
+        ],
+        "Chem-LoE": 0.75,
+        "Ecop_LoE": 0.82,
+        "Ecootox-LoE": 0.68
+    },
+    {
+        "coordinates": [
+            35.965,
+            126.736
+        ],
+        "Chem-LoE": 0.62,
+        "Ecop_LoE": 0.75,
+        "Ecootox-LoE": 0.79
+    },
+    {
+        "coordinates": [
+            35.963,
+            126.734
+        ],
+        "Chem-LoE": 0.85,
+        "Ecop_LoE": 0.77,
+        "Ecootox-LoE": 0.91
+    }
+]
